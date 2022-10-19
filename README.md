@@ -1,1 +1,1 @@
-# freepbx-listextension
+# freepbx-listextensions
